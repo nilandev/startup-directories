@@ -1,6 +1,6 @@
-Startup Directories and Review Websites When Launching your Next Startup.
+# Startup Directories and Review Websites #
 
-Here are the compiled set of Startup directories and review websites  you may submit when Launching your next Startup. 
+Here are the compiled set of Startup directories and review websites  you may submit when Launching your next Startup.
 
 * AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
 * Coupons - https://www.reddit.com/r/coupons/
