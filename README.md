@@ -161,3 +161,9 @@ Here are the compiled set of Startup directories and review websites  you may su
 * Ycombinator - https://news.ycombinator.com/
 * YouNoodle - https://ww2.younoodle.com/startups/
 * Your Story - https://profiles.yourstory.com/
+* Alternative.me - https://alternative.me/
+* Trustradius - https://www.trustradius.com/
+* Getapp - https://www.getapp.fr/
+* Financesonline - https://financesonline.com/
+* Good Firms - https://www.goodfirms.co/
+
