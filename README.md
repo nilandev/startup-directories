@@ -40,6 +40,7 @@ Here are the compiled set of Startup directories and review websites  you may su
 * Appvita - http://www.appvita.com/
 * AppZapp - http://www.appzapp.net/en/app-review-request/
 * Arctic Startup - http://arcticstartup.com/
+* Awesome Indie - https://awesomeindie.com
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Betafy - https://www.betafy.co/easysignup/startup
