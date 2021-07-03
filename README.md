@@ -1,3 +1,8 @@
+# Startup Directories and Review Websites #
+
+Here are the compiled set of Startup directories and review websites you may submit when Launching your next Startup.
+
+If you have want to add a link to this list, feel free to open an pull request or tweet me [@asknilan](https://twitter.com/asknilan).
 
 Subreddits | Link
 --- | ---
