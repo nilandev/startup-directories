@@ -95,6 +95,8 @@ Site name | Link
 | Start-ups | http://www.start-ups.co/startup-interview-questionnaire/
 | StartItUp | https://startitup.io/
 | Startup 88 | https://startup88.com/
+| Startup Inspire | https://www.startupinspire.com/
+| Product Inspire | https://www.productinspire.com/
 | Startup Base | https://startupbase.io/submit
 | Startup Beat | http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
 | Startup Buffer | http://startupbuffer.com
