@@ -70,6 +70,7 @@ Site name | Link
 | Launching Next | http://www.launchingnext.com/submit/
 | Launched | https://launched.io/SubmitStartup
 | MakeUseOf | http://www.makeuseof.com/about/
+| Makerlist | https://makerlist.io
 | Maqtoob | https://maqtoob.com/submit-a-tool
 | Mevvy | https://mevvy.com/submit-app/
 | Museum of Modern Beta | http://momb.socio-kybernetics.net/about
