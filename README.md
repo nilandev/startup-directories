@@ -43,6 +43,7 @@ Site name | Link
 | Betafy | https://www.betafy.co/easysignup/startup
 | BetaList | https://betalist.com/submit
 | Boing Boing | http://boingboing.net/sub/
+| CazaProducto | https://cazaproducto.com/
 | CloudBook | http://www.cloudbook.net/directories/product-services/product-company-search.php
 | Cnet | https://upload.cnet.com/
 | Collaborizm | https://www.collaborizm.com
