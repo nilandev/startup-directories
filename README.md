@@ -65,6 +65,7 @@ Site name | Link
 | Idea Hunt | http://ideahunt.io/
 | Inc 42 | https://inc42.com/startup-submission/
 | Index.co | https://index.co/startup
+| JustLaunched | https://justlaunched.fyi/submit
 | Killer Startups | http://killerstartups.com/submit-startup/
 | Land-book | https://land-book.com/guidelines
 | Launching Next | http://www.launchingnext.com/submit/
