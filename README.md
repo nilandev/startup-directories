@@ -69,6 +69,7 @@ Site name | Link
 | Land-book | https://land-book.com/guidelines
 | Launching Next | http://www.launchingnext.com/submit/
 | Launched | https://launched.io/SubmitStartup
+| Launchory | https://www.launchory.app
 | MakeUseOf | http://www.makeuseof.com/about/
 | Maqtoob | https://maqtoob.com/submit-a-tool
 | Mevvy | https://mevvy.com/submit-app/
