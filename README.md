@@ -50,6 +50,7 @@ Site name | Link
 | CrozDesk | https://vendor.crozdesk.com/user/signup
 | CSS Mania | http://www.cssmania.com/submit/
 | Designer News | https://www.designernews.co/
+| directree | https://www.directree.io/submit
 | Discova | http://www.discova.co/
 | Discover Cloud | https://www.discovercloud.com/become-a-vendor
 | F6S | http://www.f6s.com/
