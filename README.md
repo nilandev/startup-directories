@@ -84,6 +84,7 @@ Site name | Link
 | Programmable Web | https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 | Rev 2 | http://www.rev2.org/
 | Robingood | http://tools.robingood.com/
+| SaaS Rocket | https://saasrocket.space/
 | Show HN | https://news.ycombinator.com/showhn.html
 | Side Projectors | https://www.sideprojectors.com
 | SimilarSites | http://www.similarsites.com/
