@@ -82,6 +82,7 @@ Site name | Link
 | Postscapes | http://about.postscapes.com/tools
 | Product Hunt | http://www.producthunt.com/
 | Programmable Web | https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
+| Public Prompts | https://www.publicprompts.art/submit
 | Rev 2 | http://www.rev2.org/
 | Robingood | http://tools.robingood.com/
 | Show HN | https://news.ycombinator.com/showhn.html
